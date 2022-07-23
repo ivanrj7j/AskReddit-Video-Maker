@@ -1,0 +1,11 @@
+{
+    "Config": {
+        "Subreddit": "SubReddit/",
+        "SortBy": 0,
+        "ClientID":"your reddit api client id",
+        "SecretToken":"your reddit api secret key",
+        "UserName": "your reddit username",
+        "Password": "your password",
+        "DestinationFolder": "the folder you want to output your file"
+    }
+}
